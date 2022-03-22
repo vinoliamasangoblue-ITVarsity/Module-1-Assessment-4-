@@ -1,0 +1,24 @@
+body{
+	  background-image: url('background2.jpg');
+	  
+}
+table{
+	  border-style: solid;
+	  border-color: #2e8a25;
+	  border-collapse: collapse;
+}
+th{
+	  font-weight: 600;
+	  font-family: Helvetica, sans-sarif;
+	  font-size: 25px;
+	  font-style: italic;
+	  color: black;
+	  background-color: #2e8a25;
+}
+td{
+	  font-family: Helvetica, sans-sarif;
+	  color: #ffffff;
+	  font-weight: 500;
+	  font-style: italic;
+	  font-size: 20px;
+}
