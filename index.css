@@ -13,6 +13,9 @@
       padding-left: 20px;
       padding-right: 20px;
 }
+#menu a:hover{
+       color: #84bedb;
+}
 body{
 	  background-image: url('background2.jpg');
 	  
